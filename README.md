@@ -9,3 +9,5 @@ some websites: set up [env](https://www.coursera.org/learn/python-data-analysis/
 sudo apt-get install python3-pip
 sudo pip3 install numpy
 ```
+## Some notes
++ `help(pd.Series)`
