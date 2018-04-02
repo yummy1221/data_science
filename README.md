@@ -8,6 +8,7 @@ some websites: set up [env](https://www.coursera.org/learn/python-data-analysis/
 ```
 sudo apt-get install python3-pip
 sudo pip3 install numpy
+sudo pip3 install xlrd    # for reading excel file using pandas
 ```
 ## Some notes
 + `help(pd.Series)`
